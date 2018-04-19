@@ -13,7 +13,7 @@ class ViewController: UIViewController{
     
     
     var player : AVAudioPlayer?
-    
+     
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -45,7 +45,6 @@ class ViewController: UIViewController{
         
         
     }
-    
   
 
 }
